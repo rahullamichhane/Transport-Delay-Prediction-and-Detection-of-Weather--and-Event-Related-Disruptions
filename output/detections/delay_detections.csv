@@ -1,0 +1,201 @@
+record_id,timestamp,vehicle_id,vehicle_class,route_id,stop_id,route_type,weather_condition,event_type,is_peak_hour,is_weekend,delay_minutes,delay_label,pred_Logistic Regression,pred_Random Forest,pred_Gradient Boosting,pred_K-Nearest Neighbors,pred_Naive Bayes,pred_XGBoost
+301,2026-11-24T14:45:22.212821,TTC-streetcar-4815,Streetcar,512 St. Clair,St. George,streetcar,storm,festival,0,0,27.08,1,1,1,1,1,1,1
+302,2026-11-24T14:46:22.212821,TTC-subway-9293,Subway,Line 2 Bloor-Danforth,Yorkdale,subway,snow,concert,0,0,12.86,1,1,1,1,1,1,0
+303,2026-11-24T14:47:22.212821,TTC-bus-5748,Bus,Bloor,Queen's Park,bus,rain,festival,0,0,16.04,1,1,1,1,1,1,1
+304,2026-11-24T14:48:22.212821,TTC-streetcar-3441,Streetcar,512 St. Clair,Etobicoke Centre,streetcar,cloudy,none,0,0,7.28,0,0,0,0,0,0,0
+305,2026-11-24T14:49:22.212821,TTC-bus-2339,Bus,Finch,North York Centre,bus,cloudy,sports,0,0,17.6,1,1,1,1,1,1,1
+306,2026-11-24T14:50:22.212821,TTC-streetcar-1337,Streetcar,505 Dundas,Etobicoke Centre,streetcar,clear,none,0,0,9.22,0,0,0,0,1,0,0
+307,2026-11-24T14:51:22.212821,TTC-subway-4499,Subway,Line 2 Bloor-Danforth,Lawrence,subway,rain,sports,0,0,17.76,1,1,1,1,1,1,1
+308,2026-11-24T14:52:22.212821,TTC-streetcar-3144,Streetcar,512 St. Clair,Lawrence,streetcar,rain,none,0,0,15.87,1,1,1,1,1,0,1
+309,2026-11-24T14:53:22.212821,TTC-bus-1450,Bus,Kingston,St. George,bus,clear,none,0,0,2.98,0,0,0,0,0,0,0
+310,2026-11-24T14:54:22.212821,TTC-subway-2051,Subway,Line 2 Bloor-Danforth,Yorkdale,subway,snow,parade,0,0,9.44,0,1,1,1,1,1,1
+311,2026-11-24T14:55:22.212821,TTC-subway-6221,Subway,Line 1 Yonge-University,Harbourfront,subway,snow,concert,0,0,21.58,1,1,1,1,1,1,1
+312,2026-11-24T14:56:22.212821,TTC-subway-3992,Subway,Line 4 Sheppard,The Beaches,subway,storm,concert,0,0,10.44,1,1,1,1,1,1,1
+313,2026-11-24T14:57:22.212821,TTC-subway-1632,Subway,Line 1 Yonge-University,Queen's Park,subway,rain,sports,0,0,15.26,1,1,1,1,1,1,1
+314,2026-11-24T14:58:22.212821,TTC-bus-9410,Bus,Bayview,Harbourfront,bus,fog,parade,0,0,16.67,1,1,1,1,1,0,1
+315,2026-11-24T14:59:22.212821,TTC-streetcar-3372,Streetcar,501 Queen,Eglinton,streetcar,rain,none,0,0,15.21,1,1,1,1,1,1,1
+316,2026-11-24T15:00:22.212821,TTC-subway-8229,Subway,Line 2 Bloor-Danforth,Lawrence,subway,fog,none,0,0,0.0,0,0,0,0,0,0,0
+317,2026-11-24T15:01:22.212821,TTC-streetcar-3033,Streetcar,505 Dundas,The Beaches,streetcar,rain,protest,0,0,21.05,1,1,1,1,1,1,1
+318,2026-11-24T15:02:22.212821,TTC-streetcar-1206,Streetcar,504 King,Finch,streetcar,storm,parade,0,0,24.49,1,1,1,1,1,1,1
+319,2026-11-24T15:03:22.212821,TTC-bus-2274,Bus,Danforth,Distillery District,bus,snow,sports,0,0,24.09,1,1,1,1,1,1,1
+320,2026-11-24T15:04:22.212821,TTC-streetcar-1356,Streetcar,501 Queen,The Beaches,streetcar,fog,none,0,0,6.63,0,1,1,1,1,0,1
+321,2026-11-24T15:05:22.212821,TTC-streetcar-8823,Streetcar,512 St. Clair,Distillery District,streetcar,clear,parade,0,0,12.55,1,1,1,1,1,1,1
+322,2026-11-24T15:06:22.212821,TTC-streetcar-3953,Streetcar,504 King,Bloor-Yonge,streetcar,fog,protest,0,0,20.5,1,1,1,1,1,1,1
+323,2026-11-24T15:07:22.212821,TTC-streetcar-5364,Streetcar,512 St. Clair,Finch,streetcar,storm,protest,0,0,35.14,1,1,1,1,1,1,1
+324,2026-11-24T15:08:22.212821,TTC-bus-5858,Bus,Eglinton,Lawrence,bus,rain,concert,0,0,15.66,1,1,1,1,1,1,1
+325,2026-11-24T15:09:22.212821,TTC-bus-8904,Bus,Finch,North York Centre,bus,clear,concert,0,0,11.1,1,1,1,1,1,0,1
+326,2026-11-24T15:10:22.212821,TTC-subway-8822,Subway,Line 4 Sheppard,Kensington Market,subway,rain,none,0,0,8.21,0,0,0,0,1,0,0
+327,2026-11-24T15:11:22.212821,TTC-bus-5284,Bus,Finch,Scarborough,bus,cloudy,concert,0,0,14.21,1,1,1,1,1,0,1
+328,2026-11-24T15:12:22.212821,TTC-streetcar-1941,Streetcar,506 Carlton,Queen's Park,streetcar,fog,sports,0,0,20.78,1,1,1,1,1,1,1
+329,2026-11-24T15:13:22.212821,TTC-bus-6585,Bus,Leslie,Etobicoke Centre,bus,snow,concert,0,0,21.38,1,1,1,1,1,1,1
+330,2026-11-24T15:14:22.212821,TTC-subway-6899,Subway,Line 2 Bloor-Danforth,Queen's Park,subway,storm,none,0,0,8.94,0,0,0,1,1,1,1
+331,2026-11-24T15:15:22.212821,TTC-streetcar-3262,Streetcar,509 Harbourfront,Queen's Park,streetcar,cloudy,festival,0,0,16.87,1,1,1,1,1,1,1
+332,2026-11-24T15:16:22.212821,TTC-bus-2298,Bus,Dundas,Sheppard-Yonge,bus,clear,festival,0,0,13.88,1,1,1,1,1,1,1
+333,2026-11-24T15:17:22.212821,TTC-streetcar-3245,Streetcar,504 King,Kensington Market,streetcar,snow,parade,0,0,27.45,1,1,1,1,1,1,1
+334,2026-11-24T15:18:22.212821,TTC-bus-4314,Bus,Steeles,St. Clair West,bus,clear,none,0,0,6.54,0,0,0,0,0,0,0
+335,2026-11-24T15:19:22.212821,TTC-subway-9494,Subway,Line 2 Bloor-Danforth,Bloor-Yonge,subway,rain,sports,0,0,15.05,1,1,1,1,1,1,1
+336,2026-11-24T15:20:22.212821,TTC-subway-1253,Subway,Line 2 Bloor-Danforth,St. George,subway,storm,protest,0,0,18.42,1,1,1,1,1,1,1
+337,2026-11-24T15:21:22.212821,TTC-subway-4048,Subway,Line 2 Bloor-Danforth,Distillery District,subway,snow,sports,0,0,12.16,1,1,1,1,1,1,1
+338,2026-11-24T15:22:22.212821,TTC-subway-1076,Subway,Line 2 Bloor-Danforth,Lawrence,subway,rain,festival,0,0,15.43,1,1,1,1,1,0,1
+339,2026-11-24T15:23:22.212821,TTC-bus-5009,Bus,Bloor,High Park,bus,rain,parade,0,0,18.19,1,1,1,1,1,0,1
+340,2026-11-24T15:24:22.212821,TTC-bus-9106,Bus,Eglinton,Eglinton,bus,storm,festival,0,0,23.31,1,1,1,1,1,1,1
+341,2026-11-24T15:25:22.212821,TTC-subway-4990,Subway,Line 1 Yonge-University,Union Station,subway,clear,concert,0,0,13.76,1,0,1,1,1,0,1
+342,2026-11-24T15:26:22.212821,TTC-bus-5103,Bus,Bloor,St. Clair West,bus,snow,none,0,0,17.51,1,1,1,1,1,1,1
+343,2026-11-24T15:27:22.212821,TTC-subway-5283,Subway,Line 4 Sheppard,Kensington Market,subway,clear,festival,0,0,15.07,1,0,1,1,1,0,1
+344,2026-11-24T15:28:22.212821,TTC-streetcar-8277,Streetcar,509 Harbourfront,Distillery District,streetcar,clear,sports,0,0,13.91,1,1,1,1,1,1,1
+345,2026-11-24T15:29:22.212821,TTC-bus-3016,Bus,Bayview,Harbourfront,bus,storm,protest,0,0,28.53,1,1,1,1,1,1,1
+346,2026-11-24T15:30:22.212821,TTC-streetcar-2991,Streetcar,501 Queen,Eglinton,streetcar,storm,concert,0,0,25.46,1,1,1,1,1,1,1
+347,2026-11-24T15:31:22.212821,TTC-bus-8570,Bus,Dundas,Finch,bus,fog,protest,0,0,19.26,1,1,1,1,1,1,1
+348,2026-11-24T15:32:22.212821,TTC-bus-9611,Bus,Kingston,Scarborough,bus,clear,protest,0,0,13.23,1,1,1,1,1,1,1
+349,2026-11-24T15:33:22.212821,TTC-streetcar-4938,Streetcar,505 Dundas,The Beaches,streetcar,rain,parade,0,0,14.55,1,1,1,1,1,1,1
+350,2026-11-24T15:34:22.212821,TTC-subway-1877,Subway,Line 2 Bloor-Danforth,The Beaches,subway,rain,festival,0,0,12.91,1,1,1,1,0,0,1
+351,2026-11-24T15:35:22.212821,TTC-streetcar-1189,Streetcar,504 King,Scarborough,streetcar,rain,none,0,0,11.66,1,1,1,1,1,0,1
+352,2026-11-24T15:36:22.212821,TTC-bus-4289,Bus,Finch,Scarborough,bus,snow,parade,0,0,22.37,1,1,1,1,1,1,1
+353,2026-11-24T15:37:22.212821,TTC-bus-8433,Bus,Kingston,The Beaches,bus,fog,none,0,0,3.12,0,0,0,0,1,0,0
+354,2026-11-24T15:38:22.212821,TTC-subway-5479,Subway,Line 4 Sheppard,Harbourfront,subway,fog,festival,0,0,15.15,1,1,1,1,1,0,1
+355,2026-11-24T15:39:22.212821,TTC-bus-9524,Bus,Eglinton,Eglinton,bus,clear,protest,0,0,13.74,1,1,1,1,1,1,1
+356,2026-11-24T15:40:22.212821,TTC-streetcar-6694,Streetcar,501 Queen,St. Clair West,streetcar,fog,concert,0,0,18.82,1,1,1,1,1,1,1
+357,2026-11-24T15:41:22.212821,TTC-subway-2384,Subway,Line 4 Sheppard,Harbourfront,subway,storm,festival,0,0,18.66,1,1,1,1,1,1,1
+358,2026-11-24T15:42:22.212821,TTC-streetcar-3152,Streetcar,501 Queen,Etobicoke Centre,streetcar,rain,protest,0,0,22.83,1,1,1,1,1,1,1
+359,2026-11-24T15:43:22.212821,TTC-streetcar-9950,Streetcar,504 King,St. George,streetcar,rain,protest,0,0,23.91,1,1,1,1,1,1,1
+360,2026-11-24T15:44:22.212821,TTC-subway-4296,Subway,Line 1 Yonge-University,The Beaches,subway,snow,parade,0,0,14.74,1,1,1,1,1,1,1
+361,2026-11-24T15:45:22.212821,TTC-subway-8829,Subway,Line 2 Bloor-Danforth,Sheppard-Yonge,subway,storm,sports,0,0,13.01,1,1,1,1,1,1,1
+362,2026-11-24T15:46:22.212821,TTC-streetcar-9395,Streetcar,504 King,Kensington Market,streetcar,snow,protest,0,0,28.49,1,1,1,1,1,1,1
+363,2026-11-24T15:47:22.212821,TTC-bus-4908,Bus,Finch,Queen's Park,bus,rain,festival,0,0,14.33,1,1,1,1,1,1,1
+364,2026-11-24T15:48:22.212821,TTC-streetcar-5841,Streetcar,505 Dundas,Kensington Market,streetcar,clear,none,0,0,6.17,0,0,0,0,1,0,0
+365,2026-11-24T15:49:22.212821,TTC-bus-8208,Bus,Steeles,High Park,bus,fog,none,0,0,10.83,1,0,1,0,1,0,0
+366,2026-11-24T15:50:22.212821,TTC-streetcar-9534,Streetcar,505 Dundas,Eglinton,streetcar,cloudy,parade,0,0,11.32,1,1,1,1,1,1,1
+367,2026-11-24T15:51:22.212821,TTC-streetcar-3299,Streetcar,505 Dundas,High Park,streetcar,fog,concert,0,0,13.42,1,1,1,1,1,1,1
+368,2026-11-24T15:52:22.212821,TTC-streetcar-2557,Streetcar,512 St. Clair,Etobicoke Centre,streetcar,fog,parade,0,0,18.79,1,1,1,1,1,1,1
+369,2026-11-24T15:53:22.212821,TTC-subway-7767,Subway,Line 4 Sheppard,Finch,subway,clear,none,0,0,5.12,0,0,0,0,0,0,0
+370,2026-11-24T15:54:22.212821,TTC-subway-9157,Subway,Line 4 Sheppard,Eglinton,subway,storm,festival,0,0,17.32,1,1,1,1,1,1,1
+371,2026-11-24T15:55:22.212821,TTC-streetcar-2819,Streetcar,512 St. Clair,Sheppard-Yonge,streetcar,storm,protest,0,0,24.7,1,1,1,1,1,1,1
+372,2026-11-24T15:56:22.212821,TTC-streetcar-5799,Streetcar,510 Spadina,High Park,streetcar,rain,protest,0,0,25.7,1,1,1,1,1,1,1
+373,2026-11-24T15:57:22.212821,TTC-subway-1110,Subway,Line 2 Bloor-Danforth,Dundas West,subway,fog,protest,0,0,14.73,1,1,1,1,1,1,1
+374,2026-11-24T15:58:22.212821,TTC-streetcar-5981,Streetcar,504 King,Don Mills,streetcar,cloudy,protest,0,0,21.47,1,1,1,1,1,1,1
+375,2026-11-24T15:59:22.212821,TTC-subway-6408,Subway,Line 1 Yonge-University,St. George,subway,rain,festival,0,0,9.07,0,1,1,1,1,0,1
+376,2026-11-24T16:00:22.212821,TTC-bus-1419,Bus,Kingston,Union Station,bus,clear,sports,1,0,16.31,1,1,1,1,1,1,1
+377,2026-11-24T16:01:22.212821,TTC-streetcar-9822,Streetcar,509 Harbourfront,St. Clair West,streetcar,snow,protest,1,0,34.84,1,1,1,1,1,1,1
+378,2026-11-24T16:02:22.212821,TTC-subway-7381,Subway,Line 4 Sheppard,Scarborough,subway,storm,sports,1,0,22.52,1,1,1,1,1,1,1
+379,2026-11-24T16:03:22.212821,TTC-subway-1170,Subway,Line 2 Bloor-Danforth,North York Centre,subway,fog,none,1,0,11.0,1,1,0,1,0,0,1
+380,2026-11-24T16:04:22.212821,TTC-bus-9206,Bus,Kingston,High Park,bus,storm,parade,1,0,35.43,1,1,1,1,1,1,1
+381,2026-11-24T16:05:22.212821,TTC-bus-8974,Bus,Dundas,Scarborough,bus,storm,protest,1,0,35.19,1,1,1,1,1,1,1
+382,2026-11-24T16:06:22.212821,TTC-streetcar-2511,Streetcar,510 Spadina,Etobicoke Centre,streetcar,cloudy,sports,1,0,19.62,1,1,1,1,1,1,1
+383,2026-11-24T16:07:22.212821,TTC-bus-3876,Bus,Eglinton,Etobicoke Centre,bus,clear,parade,1,0,8.97,0,1,1,1,1,1,1
+384,2026-11-24T16:08:22.212821,TTC-streetcar-7895,Streetcar,512 St. Clair,Etobicoke Centre,streetcar,fog,concert,1,0,18.62,1,1,1,1,1,1,1
+385,2026-11-24T16:09:22.212821,TTC-subway-4081,Subway,Line 1 Yonge-University,Etobicoke Centre,subway,storm,concert,1,0,21.17,1,1,1,1,1,1,1
+386,2026-11-24T16:10:22.212821,TTC-subway-6786,Subway,Line 4 Sheppard,Eglinton,subway,snow,parade,1,0,24.29,1,1,1,1,1,1,1
+387,2026-11-24T16:11:22.212821,TTC-bus-1045,Bus,Kingston,Union Station,bus,rain,parade,1,0,22.66,1,1,1,1,1,1,1
+388,2026-11-24T16:12:22.212821,TTC-bus-2613,Bus,Eglinton,The Beaches,bus,snow,none,1,0,24.02,1,1,1,1,1,1,1
+389,2026-11-24T16:13:22.212821,TTC-bus-5358,Bus,Danforth,Yorkdale,bus,fog,festival,1,0,24.14,1,1,1,1,1,1,1
+390,2026-11-24T16:14:22.212821,TTC-subway-2990,Subway,Line 1 Yonge-University,Scarborough,subway,cloudy,concert,1,0,15.34,1,1,1,1,1,1,1
+391,2026-11-24T16:15:22.212821,TTC-subway-2640,Subway,Line 1 Yonge-University,Union Station,subway,clear,concert,1,0,11.16,1,1,1,1,1,1,1
+392,2026-11-24T16:16:22.212821,TTC-streetcar-2017,Streetcar,509 Harbourfront,Scarborough,streetcar,fog,none,1,0,12.74,1,1,1,1,1,1,1
+393,2026-11-24T16:17:22.212821,TTC-subway-4903,Subway,Line 2 Bloor-Danforth,Finch,subway,rain,sports,1,0,17.7,1,1,1,1,1,1,1
+394,2026-11-24T16:18:22.212821,TTC-streetcar-2032,Streetcar,510 Spadina,Eglinton,streetcar,rain,concert,1,0,27.74,1,1,1,1,1,1,1
+395,2026-11-24T16:19:22.212821,TTC-streetcar-4605,Streetcar,501 Queen,Bloor-Yonge,streetcar,storm,festival,1,0,35.75,1,1,1,1,1,1,1
+396,2026-11-24T16:20:22.212821,TTC-bus-5085,Bus,Steeles,Distillery District,bus,cloudy,none,1,0,13.42,1,1,1,1,1,1,1
+397,2026-11-24T16:21:22.212821,TTC-bus-8461,Bus,Finch,Union Station,bus,rain,protest,1,0,29.64,1,1,1,1,1,1,1
+398,2026-11-24T16:22:22.212821,TTC-streetcar-7386,Streetcar,501 Queen,Distillery District,streetcar,fog,parade,1,0,19.23,1,1,1,1,1,1,1
+399,2026-11-24T16:23:22.212821,TTC-streetcar-8936,Streetcar,505 Dundas,The Beaches,streetcar,clear,concert,1,0,16.08,1,1,1,1,1,1,1
+400,2026-11-24T16:24:22.212821,TTC-bus-4056,Bus,Finch,The Beaches,bus,clear,sports,1,0,20.37,1,1,1,1,1,1,1
+401,2026-11-24T16:25:22.212821,TTC-streetcar-9744,Streetcar,501 Queen,Dundas West,streetcar,storm,sports,1,0,36.45,1,1,1,1,1,1,1
+402,2026-11-24T16:26:22.212821,TTC-bus-6754,Bus,Bloor,Scarborough,bus,snow,concert,1,0,29.91,1,1,1,1,1,1,1
+403,2026-11-24T16:27:22.212821,TTC-streetcar-4885,Streetcar,505 Dundas,High Park,streetcar,storm,none,1,0,28.58,1,1,1,1,1,1,1
+404,2026-11-24T16:28:22.212821,TTC-bus-4961,Bus,Finch,Finch,bus,fog,concert,1,0,23.99,1,1,1,1,1,1,1
+405,2026-11-24T16:29:22.212821,TTC-streetcar-8263,Streetcar,509 Harbourfront,Finch,streetcar,storm,concert,1,0,28.78,1,1,1,1,1,1,1
+406,2026-11-24T16:30:22.212821,TTC-streetcar-7175,Streetcar,504 King,The Beaches,streetcar,fog,festival,1,0,22.92,1,1,1,1,1,1,1
+407,2026-11-24T16:31:22.212821,TTC-streetcar-4723,Streetcar,509 Harbourfront,Kensington Market,streetcar,storm,parade,1,0,30.81,1,1,1,1,1,1,1
+408,2026-11-24T16:32:22.212821,TTC-streetcar-7029,Streetcar,509 Harbourfront,North York Centre,streetcar,snow,concert,1,0,38.11,1,1,1,1,1,1,1
+409,2026-11-24T16:33:22.212821,TTC-subway-3011,Subway,Line 1 Yonge-University,Finch,subway,fog,festival,1,0,13.99,1,1,1,1,1,1,1
+410,2026-11-24T16:34:22.212821,TTC-streetcar-1470,Streetcar,510 Spadina,The Beaches,streetcar,fog,parade,1,0,27.63,1,1,1,1,1,1,1
+411,2026-11-24T16:35:22.212821,TTC-streetcar-2409,Streetcar,501 Queen,The Beaches,streetcar,fog,concert,1,0,24.34,1,1,1,1,1,1,1
+412,2026-11-24T16:36:22.212821,TTC-bus-6922,Bus,Bloor,St. George,bus,snow,sports,1,0,36.17,1,1,1,1,1,1,1
+413,2026-11-24T16:37:22.212821,TTC-subway-4709,Subway,Line 2 Bloor-Danforth,St. George,subway,rain,concert,1,0,20.58,1,1,1,1,1,1,1
+414,2026-11-24T16:38:22.212821,TTC-streetcar-8609,Streetcar,505 Dundas,The Beaches,streetcar,fog,parade,1,0,22.7,1,1,1,1,1,1,1
+415,2026-11-24T16:39:22.212821,TTC-bus-6757,Bus,Bayview,High Park,bus,storm,none,1,0,26.7,1,1,1,1,1,1,1
+416,2026-11-24T16:40:22.212821,TTC-subway-7562,Subway,Line 2 Bloor-Danforth,Distillery District,subway,rain,parade,1,0,11.89,1,1,1,1,1,1,1
+417,2026-11-24T16:41:22.212821,TTC-streetcar-4591,Streetcar,501 Queen,Harbourfront,streetcar,fog,parade,1,0,21.45,1,1,1,1,1,1,1
+418,2026-11-24T16:42:22.212821,TTC-bus-8056,Bus,Steeles,Queen's Park,bus,cloudy,sports,1,0,25.61,1,1,1,1,1,1,1
+419,2026-11-24T16:43:22.212821,TTC-subway-6094,Subway,Line 1 Yonge-University,Don Mills,subway,fog,parade,1,0,15.68,1,1,1,1,1,1,1
+420,2026-11-24T16:44:22.212821,TTC-bus-9532,Bus,Steeles,Yorkdale,bus,rain,protest,1,0,26.78,1,1,1,1,1,1,1
+421,2026-11-24T16:45:22.212821,TTC-subway-2832,Subway,Line 2 Bloor-Danforth,Union Station,subway,fog,sports,1,0,18.42,1,1,1,1,1,1,1
+422,2026-11-24T16:46:22.212821,TTC-subway-5005,Subway,Line 4 Sheppard,Bloor-Yonge,subway,fog,none,1,0,11.13,1,1,1,0,1,0,0
+423,2026-11-24T16:47:22.212821,TTC-streetcar-2411,Streetcar,504 King,High Park,streetcar,storm,parade,1,0,28.52,1,1,1,1,1,1,1
+424,2026-11-24T16:48:22.212821,TTC-subway-5606,Subway,Line 4 Sheppard,Distillery District,subway,snow,none,1,0,13.45,1,1,1,1,1,1,1
+425,2026-11-24T16:49:22.212821,TTC-streetcar-8418,Streetcar,505 Dundas,Etobicoke Centre,streetcar,snow,none,1,0,20.94,1,1,1,1,1,1,1
+426,2026-11-24T16:50:22.212821,TTC-bus-3091,Bus,Kingston,Etobicoke Centre,bus,storm,concert,1,0,33.43,1,1,1,1,1,1,1
+427,2026-11-24T16:51:22.212821,TTC-subway-9952,Subway,Line 2 Bloor-Danforth,Queen's Park,subway,cloudy,parade,1,0,16.36,1,1,1,1,1,1,1
+428,2026-11-24T16:52:22.212821,TTC-streetcar-3753,Streetcar,504 King,Bloor-Yonge,streetcar,rain,sports,1,0,28.76,1,1,1,1,1,1,1
+429,2026-11-24T16:53:22.212821,TTC-bus-3237,Bus,Eglinton,Finch,bus,fog,parade,1,0,25.58,1,1,1,1,1,1,1
+430,2026-11-24T16:54:22.212821,TTC-streetcar-1096,Streetcar,504 King,Distillery District,streetcar,snow,parade,1,0,34.03,1,1,1,1,1,1,1
+431,2026-11-24T16:55:22.212821,TTC-subway-3185,Subway,Line 2 Bloor-Danforth,St. Clair West,subway,fog,concert,1,0,17.19,1,1,1,1,1,1,1
+432,2026-11-24T16:56:22.212821,TTC-bus-9982,Bus,Finch,Eglinton,bus,storm,concert,1,0,30.65,1,1,1,1,1,1,1
+433,2026-11-24T16:57:22.212821,TTC-bus-7653,Bus,Steeles,North York Centre,bus,cloudy,none,1,0,10.56,1,1,1,1,1,1,1
+434,2026-11-24T16:58:22.212821,TTC-bus-4382,Bus,Finch,Yorkdale,bus,clear,none,1,0,9.16,0,1,1,0,1,1,1
+435,2026-11-24T16:59:22.212821,TTC-bus-8340,Bus,Bloor,St. Clair West,bus,clear,concert,1,0,18.53,1,1,1,1,1,1,1
+436,2026-11-24T17:00:22.212821,TTC-streetcar-5743,Streetcar,509 Harbourfront,High Park,streetcar,cloudy,festival,1,0,25.99,1,1,1,1,1,1,1
+437,2026-11-24T17:01:22.212821,TTC-bus-2375,Bus,Leslie,Yorkdale,bus,fog,parade,1,0,18.83,1,1,1,1,1,1,1
+438,2026-11-24T17:02:22.212821,TTC-subway-9009,Subway,Line 2 Bloor-Danforth,Eglinton,subway,storm,protest,1,0,26.81,1,1,1,1,1,1,1
+439,2026-11-24T17:03:22.212821,TTC-subway-6886,Subway,Line 2 Bloor-Danforth,Union Station,subway,clear,parade,1,0,15.67,1,1,1,1,1,1,1
+440,2026-11-24T17:04:22.212821,TTC-subway-5030,Subway,Line 4 Sheppard,Harbourfront,subway,clear,concert,1,0,12.62,1,1,1,1,1,1,1
+441,2026-11-24T17:05:22.212821,TTC-bus-5854,Bus,Kingston,Finch,bus,rain,concert,1,0,24.37,1,1,1,1,1,1,1
+442,2026-11-24T17:06:22.212821,TTC-subway-6084,Subway,Line 1 Yonge-University,Eglinton,subway,fog,festival,1,0,14.55,1,1,1,1,1,1,1
+443,2026-11-24T17:07:22.212821,TTC-bus-4772,Bus,Finch,Dundas West,bus,rain,concert,1,0,22.16,1,1,1,1,1,1,1
+444,2026-11-24T17:08:22.212821,TTC-streetcar-1675,Streetcar,504 King,Bloor-Yonge,streetcar,clear,festival,1,0,20.65,1,1,1,1,1,1,1
+445,2026-11-24T17:09:22.212821,TTC-subway-4546,Subway,Line 2 Bloor-Danforth,Bloor-Yonge,subway,storm,protest,1,0,25.92,1,1,1,1,1,1,1
+446,2026-11-24T17:10:22.212821,TTC-bus-2314,Bus,Eglinton,Sheppard-Yonge,bus,cloudy,parade,1,0,18.11,1,1,1,1,1,1,1
+447,2026-11-24T17:11:22.212821,TTC-bus-2469,Bus,Leslie,The Beaches,bus,clear,protest,1,0,16.95,1,1,1,1,1,1,1
+448,2026-11-24T17:12:22.212821,TTC-bus-1524,Bus,Finch,Union Station,bus,snow,festival,1,0,25.78,1,1,1,1,1,1,1
+449,2026-11-24T17:13:22.212821,TTC-streetcar-9431,Streetcar,501 Queen,Bloor-Yonge,streetcar,fog,protest,1,0,21.65,1,1,1,1,1,1,1
+450,2026-11-24T17:14:22.212821,TTC-streetcar-3694,Streetcar,501 Queen,Queen's Park,streetcar,storm,sports,1,0,32.09,1,1,1,1,1,1,1
+451,2026-11-24T17:15:22.212821,TTC-subway-4201,Subway,Line 4 Sheppard,High Park,subway,storm,none,1,0,19.91,1,1,1,1,1,1,1
+452,2026-11-24T17:16:22.212821,TTC-subway-9760,Subway,Line 2 Bloor-Danforth,Scarborough,subway,fog,concert,1,0,21.72,1,1,1,1,1,1,1
+453,2026-11-24T17:17:22.212821,TTC-subway-6431,Subway,Line 1 Yonge-University,Bloor-Yonge,subway,snow,parade,1,0,15.37,1,1,1,1,1,1,1
+454,2026-11-24T17:18:22.212821,TTC-subway-8876,Subway,Line 2 Bloor-Danforth,High Park,subway,fog,parade,1,0,16.79,1,1,1,1,1,1,1
+455,2026-11-24T17:19:22.212821,TTC-streetcar-4094,Streetcar,509 Harbourfront,Union Station,streetcar,cloudy,parade,1,0,19.22,1,1,1,1,1,1,1
+456,2026-11-24T17:20:22.212821,TTC-subway-7095,Subway,Line 1 Yonge-University,Finch,subway,snow,festival,1,0,21.82,1,1,1,1,1,1,1
+457,2026-11-24T17:21:22.212821,TTC-subway-8231,Subway,Line 1 Yonge-University,Lawrence,subway,storm,sports,1,0,26.28,1,1,1,1,1,1,1
+458,2026-11-24T17:22:22.212821,TTC-bus-2839,Bus,Dundas,Don Mills,bus,cloudy,sports,1,0,19.0,1,1,1,1,1,1,1
+459,2026-11-24T17:23:22.212821,TTC-bus-9016,Bus,Sheppard,Harbourfront,bus,cloudy,festival,1,0,19.61,1,1,1,1,1,1,1
+460,2026-11-24T17:24:22.212821,TTC-subway-9408,Subway,Line 4 Sheppard,Eglinton,subway,snow,festival,1,0,18.55,1,1,1,1,1,1,1
+461,2026-11-24T17:25:22.212821,TTC-streetcar-8201,Streetcar,510 Spadina,St. George,streetcar,cloudy,festival,1,0,16.08,1,1,1,1,1,1,1
+462,2026-11-24T17:26:22.212821,TTC-subway-2672,Subway,Line 1 Yonge-University,Etobicoke Centre,subway,storm,parade,1,0,17.68,1,1,1,1,1,1,1
+463,2026-11-24T17:27:22.212821,TTC-bus-8784,Bus,Dundas,Lawrence,bus,clear,concert,1,0,14.89,1,1,1,1,1,1,1
+464,2026-11-24T17:28:22.212821,TTC-subway-4881,Subway,Line 1 Yonge-University,The Beaches,subway,clear,sports,1,0,13.79,1,1,1,1,1,1,1
+465,2026-11-24T17:29:22.212821,TTC-subway-8531,Subway,Line 4 Sheppard,Kensington Market,subway,rain,none,1,0,8.65,0,1,1,1,1,0,1
+466,2026-11-24T17:30:22.212821,TTC-streetcar-4303,Streetcar,501 Queen,Sheppard-Yonge,streetcar,snow,none,1,0,24.19,1,1,1,1,1,1,1
+467,2026-11-24T17:31:22.212821,TTC-streetcar-6593,Streetcar,504 King,High Park,streetcar,fog,parade,1,0,18.51,1,1,1,1,1,1,1
+468,2026-11-24T17:32:22.212821,TTC-streetcar-7111,Streetcar,501 Queen,Distillery District,streetcar,snow,parade,1,0,31.3,1,1,1,1,1,1,1
+469,2026-11-24T17:33:22.212821,TTC-subway-6790,Subway,Line 2 Bloor-Danforth,Bloor-Yonge,subway,clear,sports,1,0,21.53,1,1,1,1,1,1,1
+470,2026-11-24T17:34:22.212821,TTC-subway-4972,Subway,Line 1 Yonge-University,Bloor-Yonge,subway,rain,sports,1,0,18.72,1,1,1,1,1,1,1
+471,2026-11-24T17:35:22.212821,TTC-streetcar-8206,Streetcar,501 Queen,Lawrence,streetcar,clear,none,1,0,8.52,0,1,1,1,1,1,1
+472,2026-11-24T17:36:22.212821,TTC-bus-3461,Bus,Eglinton,Queen's Park,bus,snow,sports,1,0,33.2,1,1,1,1,1,1,1
+473,2026-11-24T17:37:22.212821,TTC-streetcar-5100,Streetcar,512 St. Clair,Finch,streetcar,snow,parade,1,0,26.37,1,1,1,1,1,1,1
+474,2026-11-24T17:38:22.212821,TTC-bus-3472,Bus,Bayview,Dundas West,bus,storm,festival,1,0,32.47,1,1,1,1,1,1,1
+475,2026-11-24T17:39:22.212821,TTC-bus-3986,Bus,Bayview,St. George,bus,snow,parade,1,0,23.16,1,1,1,1,1,1,1
+476,2026-11-24T17:40:22.212821,TTC-streetcar-3593,Streetcar,512 St. Clair,Yorkdale,streetcar,fog,protest,1,0,24.74,1,1,1,1,1,1,1
+477,2026-11-24T17:41:22.212821,TTC-subway-6913,Subway,Line 4 Sheppard,St. George,subway,rain,festival,1,0,20.22,1,1,1,1,1,1,1
+478,2026-11-24T17:42:22.212821,TTC-bus-1715,Bus,Steeles,Sheppard-Yonge,bus,cloudy,concert,1,0,20.76,1,1,1,1,1,1,1
+479,2026-11-24T17:43:22.212821,TTC-streetcar-8674,Streetcar,505 Dundas,Lawrence,streetcar,storm,sports,1,0,35.47,1,1,1,1,1,1,1
+480,2026-11-24T17:44:22.212821,TTC-streetcar-6468,Streetcar,509 Harbourfront,Yorkdale,streetcar,cloudy,none,1,0,14.48,1,1,1,1,1,1,1
+481,2026-11-24T17:45:22.212821,TTC-subway-3353,Subway,Line 1 Yonge-University,Finch,subway,rain,protest,1,0,20.43,1,1,1,1,1,1,1
+482,2026-11-24T17:46:22.212821,TTC-subway-9653,Subway,Line 2 Bloor-Danforth,High Park,subway,snow,concert,1,0,18.95,1,1,1,1,1,1,1
+483,2026-11-24T17:47:22.212821,TTC-subway-7983,Subway,Line 1 Yonge-University,Kensington Market,subway,fog,festival,1,0,11.41,1,1,1,1,1,1,1
+484,2026-11-24T17:48:22.212821,TTC-streetcar-4900,Streetcar,512 St. Clair,St. Clair West,streetcar,cloudy,parade,1,0,21.99,1,1,1,1,1,1,1
+485,2026-11-24T17:49:22.212821,TTC-streetcar-9337,Streetcar,510 Spadina,High Park,streetcar,fog,concert,1,0,23.37,1,1,1,1,1,1,1
+486,2026-11-24T17:50:22.212821,TTC-subway-6479,Subway,Line 4 Sheppard,The Beaches,subway,clear,parade,1,0,13.45,1,1,1,1,1,1,1
+487,2026-11-24T17:51:22.212821,TTC-streetcar-9253,Streetcar,512 St. Clair,Yorkdale,streetcar,rain,concert,1,0,20.46,1,1,1,1,1,1,1
+488,2026-11-24T17:52:22.212821,TTC-bus-1118,Bus,Danforth,Kensington Market,bus,fog,protest,1,0,26.24,1,1,1,1,1,1,1
+489,2026-11-24T17:53:22.212821,TTC-streetcar-3767,Streetcar,509 Harbourfront,St. Clair West,streetcar,snow,none,1,0,25.86,1,1,1,1,1,1,1
+490,2026-11-24T17:54:22.212821,TTC-subway-6578,Subway,Line 2 Bloor-Danforth,Harbourfront,subway,clear,concert,1,0,11.86,1,1,1,1,1,1,1
+491,2026-11-24T17:55:22.212821,TTC-subway-6791,Subway,Line 1 Yonge-University,St. Clair West,subway,storm,sports,1,0,25.48,1,1,1,1,1,1,1
+492,2026-11-24T17:56:22.212821,TTC-subway-6230,Subway,Line 1 Yonge-University,Yorkdale,subway,cloudy,sports,1,0,23.75,1,1,1,1,1,1,1
+493,2026-11-24T17:57:22.212821,TTC-bus-4881,Bus,Danforth,Harbourfront,bus,fog,none,1,0,12.43,1,1,1,1,1,1,1
+494,2026-11-24T17:58:22.212821,TTC-streetcar-5630,Streetcar,506 Carlton,Kensington Market,streetcar,snow,parade,1,0,24.99,1,1,1,1,1,1,1
+495,2026-11-24T17:59:22.212821,TTC-bus-1796,Bus,Bayview,Finch,bus,clear,none,1,0,15.19,1,1,1,1,1,1,1
+496,2026-11-24T18:00:22.212821,TTC-subway-4083,Subway,Line 1 Yonge-University,Union Station,subway,rain,festival,1,0,20.33,1,1,1,1,1,1,1
+497,2026-11-24T18:01:22.212821,TTC-subway-4477,Subway,Line 2 Bloor-Danforth,Union Station,subway,rain,sports,1,0,25.03,1,1,1,1,1,1,1
+498,2026-11-24T18:02:22.212821,TTC-subway-6534,Subway,Line 2 Bloor-Danforth,The Beaches,subway,cloudy,none,1,0,3.5,0,0,0,0,1,0,0
+499,2026-11-24T18:03:22.212821,TTC-bus-6480,Bus,Bloor,Sheppard-Yonge,bus,storm,festival,1,0,32.52,1,1,1,1,1,1,1
+500,2026-11-24T18:04:22.212821,TTC-streetcar-1421,Streetcar,512 St. Clair,Union Station,streetcar,rain,festival,1,0,25.44,1,1,1,1,1,1,1
