@@ -1,5 +1,5 @@
 ```bash
-cd PTDD
+
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -22,5 +22,4 @@ python main.py
 run python
 python main.py
 
-run for browswe
 streamlit run dashboard/app.py
